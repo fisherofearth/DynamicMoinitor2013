@@ -1,0 +1,9 @@
+C:\Users\Fisher\My Events\DynamicMonitor\DynamicMonitor\DynamicMonitor\bin\Debug\DynamicMonitor.exe
+C:\Users\Fisher\My Events\DynamicMonitor\DynamicMonitor\DynamicMonitor\bin\Debug\DynamicMonitor.pdb
+C:\Users\Fisher\My Events\DynamicMonitor\DynamicMonitor\DynamicMonitor\obj\x86\Debug\DynamicMonitor.DynamicMonitor.resources
+C:\Users\Fisher\My Events\DynamicMonitor\DynamicMonitor\DynamicMonitor\obj\x86\Debug\DynamicMonitor.Properties.Resources.resources
+C:\Users\Fisher\My Events\DynamicMonitor\DynamicMonitor\DynamicMonitor\obj\x86\Debug\DynamicMonitor.SerialPortOption.resources
+C:\Users\Fisher\My Events\DynamicMonitor\DynamicMonitor\DynamicMonitor\obj\x86\Debug\DynamicMonitor.csproj.GenerateResource.Cache
+C:\Users\Fisher\My Events\DynamicMonitor\DynamicMonitor\DynamicMonitor\obj\x86\Debug\DynamicMonitor.exe
+C:\Users\Fisher\My Events\DynamicMonitor\DynamicMonitor\DynamicMonitor\obj\x86\Debug\DynamicMonitor.pdb
+C:\Users\Fisher\My Events\DynamicMonitor\DynamicMonitor\DynamicMonitor\obj\x86\Debug\DynamicMonitor.csprojResolveAssemblyReference.cache
